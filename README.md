@@ -11,7 +11,7 @@ Mục tiêu thực hành:
 ---
 
 ### **Bài 1:** Tìm hiểu địa chỉ IP và sử dụng lệnh Tracert
-- **Thành viên thực hiện:** Nguyễn Thành Nhân
+- **Thành viên thực hiện:** Bùi Thiện Nhân
 - **Mô tả:**
 + Xác định IPv4, IPv6, Gateway và DNS thực tế.
 + Trình bày tính năng của Gateway, DNS sever và DHCT
@@ -19,7 +19,7 @@ Mục tiêu thực hành:
 + Dùng lệnh tracert trên Windows để kiểm tra xem để nối kết đến các server ở cột các máy chủ phải qua những nút trung gian nào
 - **Kết quả được trình bày trong file:** [`.docx`](https://github.com/ngocthuy080407/ThucHanh08_Nhom8/blob/main/Buoi8_Nhom8.docx)
 ### **Bài 2:** Thiết kế sơ đồ mạng
-- **Thành viên thực hiện:** Nguyễn Thành Nhân, Hồ Vũ Thành
+- **Thành viên thực hiện:** Bùi Thiện Nhân, Hồ Vũ Thành
 - **Mô tả:** Nội dung này thực hiện việc thiết kế, cấu hình và kiểm tra kết nối trên môi trường mạng giả lập
 - **Kết quả được trình bày trong file:**
 ### **Bài 3:** Kỹ năng giao tiếp trực tuyến cơ bản
