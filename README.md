@@ -21,7 +21,7 @@ Mục tiêu thực hành:
 ### **Bài 2:** Thiết kế sơ đồ mạng
 - **Thành viên thực hiện:** Bùi Thiện Nhân, Hồ Vũ Thành
 - **Mô tả:** Nội dung này thực hiện việc thiết kế, cấu hình và kiểm tra kết nối trên môi trường mạng giả lập
-- **Kết quả được trình bày trong file:**
+- **Kết quả được trình bày trong file:** [`.pkt`](https://github.com/ngocthuy080407/ThucHanh08_Nhom8/blob/main/Bai02_Nhom8.pkt)
 ### **Bài 3:** Kỹ năng giao tiếp trực tuyến cơ bản
 - **Thành viên thực hiện:** Đặng Minh Hiếu
 - **Mô tả:**
